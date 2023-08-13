@@ -426,4 +426,7 @@ footer{
 footer p{
     text-align:center;
 }
-
+/* education */
+#education{
+    position: relative;
+}
